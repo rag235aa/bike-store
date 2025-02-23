@@ -1,0 +1,13 @@
+use makeup;
+create table omnia_brand
+(first_name varchar(50) not null,
+last_name varchar(50) not null,
+phone varchar(50),
+brand_name varchar(50) not null,
+senstivity int ,
+location varchar(100)
+);
+
+select first_name 
+from omnia_brand
+where age< 40; 
