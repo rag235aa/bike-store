@@ -12,3 +12,7 @@ contra varchar(150)
 select contra
 from cream
 order by brand_name;
+
+
+find your way
+FOPHU 2026
